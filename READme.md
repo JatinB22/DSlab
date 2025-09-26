@@ -8,7 +8,11 @@ Welcome to my **Data Science Lab Projects** repository! This repository contains
 |-----|------------------------|-------------|
 | 1   | Data Cleaning          | Handling missing values, outliers, and formatting issues |
 | 2   | Linear regression | Visualizing and summarizing datasets |
-| 3   | Logistic regression         | Building and evaluating ML models |
+| 3   | Logistic regression         | Building and evaluating Logistic regression models |
+| 4   | Decision Tree   | Building and evaluating Decision Tree models  |
+| 5   | Multi-cLass Logistic regression   | Building and evaluating Logistic regression models |
+| 6   | Naive Bayes         | Building and evaluating Naive Bayes models |
+| 7   | Power BI         | Data Visualization using PowerBI |
 
 
 ## 🛠️ Technologies Used
